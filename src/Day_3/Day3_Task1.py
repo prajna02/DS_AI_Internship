@@ -4,7 +4,7 @@ Created on Wed Feb  4 10:15:46 2026
 
 @author: DELL
 """
-
+#Day3_Task1
 inventories = ["Apples", "Bananas", "Dates", "Carrots"]
 print("List:", inventories)
 inventories.append("Eggs")

@@ -4,7 +4,7 @@ Created on Wed Feb  4 10:28:05 2026
 
 @author: DELL
 """
-
+#Day3_Task2
 temperatures = [22, 24, 25, 28, 30, 29, 27, 26, 24, 22]
 print("Temperatures:", temperatures)
 print("First index value:")
