@@ -1,0 +1,3 @@
+Name:PrajnaDaily_log: - Purchased pen
+Name:PrajnaDaily_log: - Task completed
+Name:PrajnaDaily_log: - Book purchased
